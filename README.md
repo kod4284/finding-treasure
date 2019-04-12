@@ -48,15 +48,19 @@ Play Screen
 ###Start Scren:
 ![Start Screen](images/startPage.png)
 
+
 ###Intro Page:
 ![Intro](images/intro.png)
+
 
 ###Play Screen:
 ![Play Screen1](images/play_screen1.png)
 ![Play Screen2](images/play_screen2.png)
 
+
 ###If you lost:
 ![Lost Screen](images/gameover.png)
+
 
 ###If you won:
 ![Win Screen](images/clear.png)
