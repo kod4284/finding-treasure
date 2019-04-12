@@ -6,17 +6,18 @@ Introduction
 Finding Treasure is a GBA(GameBoyAdvance) game with the story that a diver finding treasure boxes under the sea by escaping sharks' attack.
 There are two stages you have to clear.
 If you clear those two stages, you can be a billionaire!
-However, you could be eaten by a lot of sharks under the sea if you are not good at controll.
+However, you could be eaten by a lot of sharks under the sea if you are not good at control.
 Risk comes at a cost!
 
 How to play
 -----------
-* Controll your character (yellow square) with arrow keys ↑(UP), →(Right), ↓(Down), ←(Left)
+* Control your character (yellow square) with arrow keys ↑(UP), →(Right), ↓(Down), ←(Left)
 
 * By not colliding with sharks(red squares), pass the goal!
 
 Install
 -------
+Confirmed Running Environment: Linux
 
 Type this commend below on your terminal:
 
@@ -41,6 +42,27 @@ $ sudo add-apt-repository ppa:sergio-br2/vbam-trunk
 $ sudo apt update
 $ sudo apt install vbam-sdl vbam
 ```
+
+Play Screen
+-----------
+Start Scren:
+![Start Screen](image/startPage.png)
+
+Intro Page:
+![Intro](image/intro.png)
+
+Play Screen:
+![Play Screen1](image/play_screen1.png)
+![Play Screen2](image/play_screen2.png)
+
+If you lost:
+![Lost Screen](image/gameover.png)
+
+If you won:
+![Win Screen](image/clear.png)
+
+
+
 
 Author
 ------
