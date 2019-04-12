@@ -46,20 +46,20 @@ $ sudo apt install vbam-sdl vbam
 Play Screen
 -----------
 Start Scren:
-![Start Screen](image/startPage.png)
+![Start Screen](images/startPage.png)
 
 Intro Page:
-![Intro](image/intro.png)
+![Intro](images/intro.png)
 
 Play Screen:
-![Play Screen1](image/play_screen1.png)
-![Play Screen2](image/play_screen2.png)
+![Play Screen1](images/play_screen1.png)
+![Play Screen2](images/play_screen2.png)
 
 If you lost:
-![Lost Screen](image/gameover.png)
+![Lost Screen](images/gameover.png)
 
 If you won:
-![Win Screen](image/clear.png)
+![Win Screen](images/clear.png)
 
 
 
